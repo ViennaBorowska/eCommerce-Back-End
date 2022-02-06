@@ -42,21 +42,23 @@ https://github.com/ViennaBorowska/eCommerce-Back-End
 4. Initialise the database in MySQL
 5. Seed the database by running `npm seed`.
 6. Run the command `npm start` in the terminal to start the MySQL server.
-7. API routes can now be acces on the browser, or through a REST application e.g. Insomnia, Postman etc.
+7. API routes can now be accessed on the browser, or through a REST application e.g. Insomnia, Postman etc.
 
 ## Usage
 
 Once the above installation steps have been completed, the database can be used.
 Please see below walkthrough video demonstration.
 
-<img src="assets/Project-Demo.gif" alt="Demo video of how to run and use program - visual of app being run in command line and all selections demonstrated; view all departments, view all roles, view all employees, add a department, add a role, add an employee and update employee role">
+<img src="/assets/project-demo.avi" alt="Demo video of how to install and manage the e-commerce database">
 
 This video is also available in Google Drive [here](https://drive.google.com/file/d/1Zhifm-4x_kxB40LBX7Kj_4KyXtXZsbAz/view?usp=sharing)
 
 ## Contributing
 
-Contributions welcome. Please make your own branch and commit any changes for review. Do not push changes to the main branch.
+Contributions and improvements are always welcome. Please make your own branch and commit any changes for review. Do not push changes to the main branch.
 
 ## Questions
 
 If you have any questions about this projects, please contact me directly at viennabdev@gmail.com. You can view more of my projects at https://github.com/ViennaBorowska.
+
+This README was compiled using my own [README generator](https://github.com/ViennaBorowska/ReadMe-Generator)
