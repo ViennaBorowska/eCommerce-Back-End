@@ -48,7 +48,9 @@ https://github.com/ViennaBorowska/eCommerce-Back-End
 
 Once the above installation steps have been completed, the database can be used.
 Please see below walkthrough video demonstration.
-<img src="assets/Project-demo.mp4" alt="Demonstration video of how the database can be initialised and managed">
+
+<img src="assets/Project-demo.mp4" alt="Demonstration video of how the database can be initialised and managed.">
+
 This video is also available in Google Drive [here](https://drive.google.com/file/d/1Zhifm-4x_kxB40LBX7Kj_4KyXtXZsbAz/view?usp=sharing)
 
 ## Contributing
